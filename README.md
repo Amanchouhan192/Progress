@@ -10,4 +10,4 @@ Contain Attempted coding question from different online platform with different 
 * [SumToDigits](https://leetcode.com/problems/sum-of-two-integers/)
 * [ReverseBits](https://leetcode.com/problems/reverse-bits/submissions/)
 * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-
+* [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
