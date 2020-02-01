@@ -11,3 +11,5 @@ Contain Attempted coding question from different online platform with different 
 * [ReverseBits](https://leetcode.com/problems/reverse-bits/submissions/)
 * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 * [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+* [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+
