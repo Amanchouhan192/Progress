@@ -13,4 +13,5 @@ Contain Attempted coding question from different online platform with different 
 * [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 * [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+* [Sum Of Squares](https://leetcode.com/problems/sum-of-square-numbers/submissions/)
 
